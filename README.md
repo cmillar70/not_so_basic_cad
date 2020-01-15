@@ -10,4 +10,4 @@ I made a candlestick using sweep tools
 
 I made the head of a hammer using loft tools
 
-<img src="https://lh3.googleusercontent.com/f-dXoWFtiasxEXpYhxkYcTLbzVYSIb859CP8-23d0BmSWCIeuiu8UIHzZwex0JtXDSbYjw=s122" height="557" width="799"/>
+![HammerHead](Sweeps&Lofts/media/loft.PNG)
